@@ -1,11 +1,12 @@
-This is the first recipe lesson/task in "The Odin Project".
+This is the first real task in "The Odin Project".
 
-Now i have to show what I learned in form of an html recipe website.
+I had to build a html recipe website with my new skills.
+
 The skills to show off:
 
 - Boilerplate setup
-- edit text (paragraphs, headings, bold, italic, comments...)
-- ordered and unordered lists
-- embed links and images
+- Edit text (paragraphs, headings, bold, italic, comments...)
+- Ordered and unordered lists
+- Embed links and images
 
 Feel free to give some feedback ;)
